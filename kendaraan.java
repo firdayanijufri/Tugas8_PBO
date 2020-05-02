@@ -1,7 +1,7 @@
 package no1;
 
 /*
-Nama      : Firdayani_1302080089
+Nama      : Firdayani_13020180089
 Kelas     : B2
 hari/tgl  : Jumat, 1 Mei 2020
  */
